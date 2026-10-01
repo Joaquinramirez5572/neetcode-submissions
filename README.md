@@ -2,7 +2,7 @@
 
 A collection of solutions to NeetCode problems. This repository contains my progress through coding challenges focused on data structures, algorithms, and problem-solving skills.
 
-## 📁 Repository Structure
+## Repository Structure
 
 Solutions are organized by problem category and difficulty level. Each solution may include:
 
@@ -11,7 +11,7 @@ Solutions are organized by problem category and difficulty level. Each solution 
 - An implementation
 - Time and space complexity analysis
 
-## 🎯 Topics Covered
+## Topics Covered
 
 - Arrays & Strings
 - Linked Lists
@@ -23,7 +23,7 @@ Solutions are organized by problem category and difficulty level. Each solution 
 - Greedy Algorithms
 - And more
 
-## 🚀 Getting Started
+## Getting Started
 
 1. Clone the repository:
 
@@ -35,7 +35,7 @@ Solutions are organized by problem category and difficulty level. Each solution 
 3. Review the approach and implementation.
 4. Run the code using the tools appropriate for its programming language.
 
-## 💡 Goal
+## Goal
 
 Build a strong foundation in data structures and algorithms through consistent practice and use these solutions as a reference for coding interview preparation.
 
